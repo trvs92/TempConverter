@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="label">℉ to ℃</string>
+    <string name="reset">Reset</string>
+    <string name="instructions">Please enter the temperature value you wish to convert in the text box below. Press the corresponding radio button and click the Convert button.</string>
+    <string name="c2f">Celsius to Fahrenheit</string>
+    <string name="f2c">Fahrenheit to Celsius</string>
+    <string name="convert">Convert</string>
+</resources>
